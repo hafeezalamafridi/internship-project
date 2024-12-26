@@ -13,5 +13,7 @@ if didn't then try on this sql" CREATE TABLE users (
     PRIMARY KEY (id)
 );"
 If any error without reset password link then remove (php code) from register.php file.
-few file just for try to make more corrret code like eamil.php,phpmailer/function.php and phpmailer/password_reset.php
+few file just for try to make more corrret code.
+phpmyliar install first when you ren code
+
 
